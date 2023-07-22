@@ -1,18 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3A4A51&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=dejavu's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-
-<h4 align="center">📚 Blog </h4>
-
-<div align="center" style="text-align:center">
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_dejavu&tag=javascript)](https://velog.io/@dev_dejavu)
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_dejavu)](https://velog.io/@dev_dejavu)
-
-</div>
-<br>
-<br>
-
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
     💡used as the main
@@ -50,7 +37,3 @@
 </p>
 
 <br>
-
-<div align=center>
-
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=devdejavu&show_icons=true)
